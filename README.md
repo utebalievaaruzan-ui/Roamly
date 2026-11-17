@@ -28,7 +28,7 @@ Technologies and Tools
 
 Prototype
 
-Figma prototype: [Add your Figma link here]
+Figma prototype: (https://www.figma.com/design/vITX2YEF0mcM1k8i4np0I9/Roamly?node-id=0-1&t=sOuqsW6aG2Q0u8MR-1)
 
 Project Status
 
